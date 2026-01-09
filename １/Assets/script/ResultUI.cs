@@ -17,7 +17,7 @@ public class ResultUI : MonoBehaviour
 
     public void OnRetryButton()
     {
-        SceneManager.LoadScene("seen main"); 
+        SceneManager.LoadScene("Seen main"); 
     }
 
     public void OnTitleButton()

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D4CAA0EC-4D4A-2065-8D7A-218ECC48F709}</ProjectGuid>
+    <ProjectGuid>{E64480ED-F39F-61E4-232C-F592D7C7B5CF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,7 +65,7 @@
     <Compile Include="Assets\script\MinimapMaker.cs" />
     <Compile Include="Assets\script\ScorpionNeedle.cs" />
     <Compile Include="Assets\script\IWeapon.cs" />
-    <Compile Include="Assets\healingItemmain.cs" />
+    <Compile Include="Assets\script\SceneChanger.cs" />
     <Compile Include="Assets\script\RearViewToggle.cs" />
     <Compile Include="Assets\script\PortalVortex.cs" />
     <Compile Include="Assets\script\PlayerAttack.cs" />
@@ -74,11 +74,12 @@
     <Compile Include="Assets\script\PlayerWeaponPickup.cs" />
     <Compile Include="Assets\script\MainMenuUI.cs" />
     <Compile Include="Assets\script\selectUI.cs" />
-    <Compile Include="Assets\ScreenFader.cs" />
+    <Compile Include="Assets\script\healingItemmain.cs" />
     <Compile Include="Assets\script\Gameclear.cs" />
     <Compile Include="Assets\script\Portal.cs" />
     <Compile Include="Assets\script\WeaponSpawnEffect.cs" />
     <Compile Include="Assets\script\WeaponPickup.cs" />
+    <Compile Include="Assets\script\ScreenFader.cs" />
     <Compile Include="Assets\script\DiagonalMeteor.cs" />
     <Compile Include="Assets\script\PlayerHealth.cs" />
     <Compile Include="Assets\script\Swordmain.cs" />

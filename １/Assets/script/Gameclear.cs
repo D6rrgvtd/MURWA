@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -9,10 +10,7 @@ public class Gameclear : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             GameManager.instance.clearTime = Time.timeSinceLevelLoad;
-            SceneManager.LoadScene("Result");
+            SceneManager.LoadScene("Clear");
         }
     }
-
-
-
 }
