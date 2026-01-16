@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\script\\ResultUI.cs",
               "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\ResultUI.cs",
               "RelativeToolTip": "Assets\\script\\ResultUI.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwA0AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T10:06:23.359Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Assets\\script\\SceneChanger.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T09:29:15.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T09:29:15.246Z"
             },
             {
               "$type": "Document",

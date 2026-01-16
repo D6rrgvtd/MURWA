@@ -64,8 +64,8 @@
     <Compile Include="Assets\script\AudioSettings.cs" />
     <Compile Include="Assets\script\MinimapMaker.cs" />
     <Compile Include="Assets\script\ScorpionNeedle.cs" />
-    <Compile Include="Assets\script\IWeapon.cs" />
     <Compile Include="Assets\script\SceneChanger.cs" />
+    <Compile Include="Assets\script\IWeapon.cs" />
     <Compile Include="Assets\script\RearViewToggle.cs" />
     <Compile Include="Assets\script\PortalVortex.cs" />
     <Compile Include="Assets\script\PlayerAttack.cs" />
@@ -106,10 +106,12 @@
     <Compile Include="Assets\script\GameTimer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Free Low Poly Desert Pack\Materials\Shaders\Vertex_Color_Unlit.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Free Low Poly Desert Pack\Materials\Shaders\Vertex_Color_Basic.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
@@ -124,6 +126,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Free Low Poly Desert Pack\Materials\Shaders\Water_Low_Poly_Basic.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />

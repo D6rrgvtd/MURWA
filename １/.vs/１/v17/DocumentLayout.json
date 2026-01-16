@@ -1,30 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\resultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\116\\\uFF11\\assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\116\\\uFF11\\assets\\script\\resultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\116\\\uFF11\\assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\SceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\SceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\gameclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\116\\\uFF11\\assets\\script\\gameclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\116\\\uFF11\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64480ED-F39F-61E4-232C-F592D7C7B5CF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +33,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ResultUI.cs",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\ResultUI.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\ResultUI.cs",
               "RelativeDocumentMoniker": "Assets\\script\\ResultUI.cs",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\ResultUI.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\ResultUI.cs",
               "RelativeToolTip": "Assets\\script\\ResultUI.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAABFwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T10:06:23.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SceneChanger.cs",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\SceneChanger.cs",
               "RelativeDocumentMoniker": "Assets\\script\\SceneChanger.cs",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\SceneChanger.cs",
               "RelativeToolTip": "Assets\\script\\SceneChanger.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,34 +62,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SceneChanger.cs",
               "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\SceneChanger.cs",
-              "RelativeDocumentMoniker": "Assets\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\SceneChanger.cs",
               "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\SceneChanger.cs",
-              "RelativeToolTip": "Assets\\SceneChanger.cs",
+              "RelativeToolTip": "..\\..\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\SceneChanger.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T08:02:37.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "EnemyAi.cs",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\EnemyAi.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\EnemyAi.cs",
               "RelativeDocumentMoniker": "Assets\\script\\EnemyAi.cs",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\EnemyAi.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\EnemyAi.cs",
               "RelativeToolTip": "Assets\\script\\EnemyAi.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T07:49:24.589Z"
+              "WhenOpened": "2026-01-09T07:49:24.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Gameclear.cs",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\Gameclear.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\Gameclear.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Gameclear.cs",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\Gameclear.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\Gameclear.cs",
               "RelativeToolTip": "Assets\\script\\Gameclear.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\script\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\\u500B\u4EBA\u88FD\u4F5C1\\\uFF11\\Assets\\script\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\116\\\uFF11\\Assets\\script\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\script\\PlayerHealth.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAQwHAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
