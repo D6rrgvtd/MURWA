@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Unity.exe
 -name
 AssetImportWorker10
 -projectPath
-C:/Users/ktc/Desktop/個人製作1/１
+C:/Users/ktc/Desktop/116/１
 -logFile
 Logs/AssetImportWorker10.log
 -srvPort
-61715
+49173
 -job-worker-count
 7
 -background-job-worker-count
 8
 -gc-helper-count
 1
-Successfully changed project path to: C:/Users/ktc/Desktop/個人製作1/１
-C:/Users/ktc/Desktop/個人製作1/１
+Successfully changed project path to: C:/Users/ktc/Desktop/116/１
+C:/Users/ktc/Desktop/116/１
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,16 +59,16 @@ C:/Users/ktc/Desktop/個人製作1/１
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [25508]  Target information:
+Player connection [11336]  Target information:
 
-Player connection [25508]  * "[IP] 172.22.74.120 [Port] 0 [Flags] 2 [Guid] 3063303623 [EditorId] 3063303623 [Version] 1048832 [Id] WindowsEditor(7,504-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [11336]  * "[IP] 172.22.74.147 [Port] 0 [Flags] 2 [Guid] 3538452064 [EditorId] 3538452064 [Version] 1048832 [Id] WindowsEditor(7,504-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25508]  * "[IP] 172.23.112.1 [Port] 0 [Flags] 2 [Guid] 3063303623 [EditorId] 3063303623 [Version] 1048832 [Id] WindowsEditor(7,504-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [11336]  * "[IP] 172.20.96.1 [Port] 0 [Flags] 2 [Guid] 3538452064 [EditorId] 3538452064 [Version] 1048832 [Id] WindowsEditor(7,504-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25508]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3063303623 [EditorId] 3063303623 [Version] 1048832 [Id] WindowsEditor(7,504-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [11336]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3538452064 [EditorId] 3538452064 [Version] 1048832 [Id] WindowsEditor(7,504-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [25508] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [25508] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [11336] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11336] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -80,11 +80,11 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.41f1 (46e447368a18)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/ktc/Desktop/個人製作1/１/Assets
+[Subsystems] Discovering subsystems at path C:/Users/ktc/Desktop/116/１/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -96,50 +96,50 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.006696 seconds.
-- Loaded All Assemblies, in  0.365 seconds
+Registered in 0.004672 seconds.
+- Loaded All Assemblies, in  0.376 seconds
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 260 ms
+Android Extension - Scanning For ADB Devices 274 ms
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.613 seconds
-Domain Reload Profiling: 976ms
-	BeginReloadAssembly (125ms)
+- Finished resetting the current domain, in  0.651 seconds
+Domain Reload Profiling: 1026ms
+	BeginReloadAssembly (123ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (34ms)
-	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (49ms)
-	LoadAllAssembliesAndSetupDomain (146ms)
-		LoadAssemblies (124ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (156ms)
+		LoadAssemblies (122ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (141ms)
-			TypeCache.Refresh (138ms)
-				TypeCache.ScanAssembly (125ms)
+		AnalyzeDomain (152ms)
+			TypeCache.Refresh (150ms)
+				TypeCache.ScanAssembly (138ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (613ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (652ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (567ms)
+		SetupLoadedEditorAssemblies (614ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (340ms)
+			InitializePlatformSupportModulesInManaged (361ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (46ms)
-			ProcessInitializeOnLoadAttributes (115ms)
-			ProcessInitializeOnLoadMethodAttributes (63ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -148,164 +148,68 @@ Domain Reload Profiling: 976ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.600 seconds
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.617 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.460 seconds
-Domain Reload Profiling: 1058ms
-	BeginReloadAssembly (156ms)
+- Finished resetting the current domain, in  0.487 seconds
+Domain Reload Profiling: 1102ms
+	BeginReloadAssembly (170ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (5ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (28ms)
-	RebuildCommonClasses (37ms)
-	RebuildNativeTypeToScriptingClass (14ms)
-	initialDomainReloadingComplete (34ms)
-	LoadAllAssembliesAndSetupDomain (357ms)
-		LoadAssemblies (279ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (365ms)
+		LoadAssemblies (281ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (172ms)
-			TypeCache.Refresh (132ms)
-				TypeCache.ScanAssembly (119ms)
-			BuildScriptInfoCaches (30ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (460ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (140ms)
+			BuildScriptInfoCaches (24ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (488ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (367ms)
+		SetupLoadedEditorAssemblies (385ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (18ms)
+			InitializePlatformSupportModulesInManaged (15ms)
 			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (247ms)
-			ProcessInitializeOnLoadMethodAttributes (19ms)
-			AfterProcessingInitializeOnLoad (5ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (263ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (4ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (5ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 3544 unused Assets / (2.9 MB). Loaded Objects now: 4063.
-Memory consumption went from 98.7 MB to 95.8 MB.
-Total: 6.611600 ms (FindLiveObjects: 0.360200 ms CreateObjectMapping: 0.302200 ms MarkObjects: 4.700000 ms  DeleteObjects: 1.247900 ms)
+Unloading 64 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3544 unused Assets / (2.9 MB). Loaded Objects now: 4068.
+Memory consumption went from 104.6 MB to 101.7 MB.
+Total: 6.330100 ms (FindLiveObjects: 0.411800 ms CreateObjectMapping: 0.381600 ms MarkObjects: 4.007300 ms  DeleteObjects: 1.528400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15569.998898 seconds.
-  path: Assets/Scenes/Clear.unity
-  artifactKey: Guid(f62032e6345f3024d87c75ef4636323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Clear.unity using Guid(f62032e6345f3024d87c75ef4636323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba9acf3d134fe8547e205a62046f53ce') in 0.0076767 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 42.023949 seconds.
-  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
-  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '20c0041901f0b74d3c5d32793f8a5f6c') in 0.0663449 seconds
+  Time since last request: 12370.936599 seconds.
+  path: Assets/Ishikawa1116/LOW-POLY GUNS PACK_SAMPLE/Materials/Texture_black.mat
+  artifactKey: Guid(cbfbefed4c2475042aad2e689eea28a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ishikawa1116/LOW-POLY GUNS PACK_SAMPLE/Materials/Texture_black.mat using Guid(cbfbefed4c2475042aad2e689eea28a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'defb983fe74a3c41683e929b86d2b488') in 0.0956295 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Red/Tex_Red_Albedo.png
-  artifactKey: Guid(0efd49f9df48cca4da4852f6fcffea52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Red/Tex_Red_Albedo.png using Guid(0efd49f9df48cca4da4852f6fcffea52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c78217b2b4e8c4675127522e8bde79b7') in 0.0114703 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000084 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Red/Tex_Red_Normal.png
-  artifactKey: Guid(b571f5fa61d66a14094de8cca4d62f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Red/Tex_Red_Normal.png using Guid(b571f5fa61d66a14094de8cca4d62f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66ce858e9b18491c48d5ba3e8df811b6') in 0.049091 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Red Gold/Tex_RedGold_Metalsmoothness.png
-  artifactKey: Guid(4a745ccfab26710468d39a7acd68e895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Red Gold/Tex_RedGold_Metalsmoothness.png using Guid(4a745ccfab26710468d39a7acd68e895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99b71be4382e846f14761d130562bf3d') in 0.0118253 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Marble/Tex_Marble_Normal.png
-  artifactKey: Guid(a3bb4d3dad557bb478877f2a99453215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Marble/Tex_Marble_Normal.png using Guid(a3bb4d3dad557bb478877f2a99453215) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ebeae9eabf6a0fdc34873afba0d76069') in 0.0167983 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Red Gold/Tex_RedGold_AO.png
-  artifactKey: Guid(a97407e248efc3440a1e64dfc37e6add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Red Gold/Tex_RedGold_AO.png using Guid(a97407e248efc3440a1e64dfc37e6add) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50fa6d281fce3d39894be35079b0aa7b') in 0.0059809 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Doric/Tex_Doric_AO.png
-  artifactKey: Guid(ce344823760bdf94cb36e086688b59b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Doric/Tex_Doric_AO.png using Guid(ce344823760bdf94cb36e086688b59b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93fa2bb8ffaf644fce1a7e396549d5ca') in 0.0046931 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Gold/Tex_Gold_AO.png
-  artifactKey: Guid(caa50c4c3494fda4c99d2bedd5428f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Gold/Tex_Gold_AO.png using Guid(caa50c4c3494fda4c99d2bedd5428f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a21d703f0b927e6ca0b5690f53db1e5e') in 0.0061258 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Blue Gold/Tex_BlueGold_Albedo.png
-  artifactKey: Guid(83d759c02599e1a42be5a08f9964d41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Blue Gold/Tex_BlueGold_Albedo.png using Guid(83d759c02599e1a42be5a08f9964d41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f514e2cdd6841277756b38d77dfa4231') in 0.0069923 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Doric/Tex_Doric_Albedo.png
-  artifactKey: Guid(ab44a354e84c2cd4fa56191633c96f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Doric/Tex_Doric_Albedo.png using Guid(ab44a354e84c2cd4fa56191633c96f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a79450e1efa9a446fd06bc41f46a92a1') in 0.0058207 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000117 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Red Gold/Tex_RedGold_Albedo.png
-  artifactKey: Guid(8c6e8ee5332ca3d45b5c62ec4dfda975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Red Gold/Tex_RedGold_Albedo.png using Guid(8c6e8ee5332ca3d45b5c62ec4dfda975) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5de13c5695ad71ce13ef9e55fc78deaf') in 0.0069228 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
-  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6bdf26793787e3ab230acf4c389ce73') in 0.0614447 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Greek_Columns/Greek_Columns_Textures/Doric/Tex_Doric_Metalsmoothness.png
-  artifactKey: Guid(5556d95e6e6fe79499226212260e16aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Greek_Columns/Greek_Columns_Textures/Doric/Tex_Doric_Metalsmoothness.png using Guid(5556d95e6e6fe79499226212260e16aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fc0d22f9c21c2d632bca67623fd2027') in 0.0050177 seconds
+  Time since last request: 5.014011 seconds.
+  path: Assets/Ishikawa1116/LOW-POLY GUNS PACK_SAMPLE/Textures/Texture_snow.png
+  artifactKey: Guid(68244f061fb2af14482e75748f326f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ishikawa1116/LOW-POLY GUNS PACK_SAMPLE/Textures/Texture_snow.png using Guid(68244f061fb2af14482e75748f326f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33ddc4bec667441134e3ec8ce3a70974') in 0.0212542 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout

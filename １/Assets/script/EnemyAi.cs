@@ -25,7 +25,7 @@ public class EnemyAI : MonoBehaviour
 
         CapsuleCollider col = GetComponent<CapsuleCollider>();
         col.height = 2f;
-        col.radius = 0.5f;
+        col.radius = 0.05f;
         col.center = Vector3.up; // ‘«Œ³‚©‚ç—§‚¿ã‚ª‚é‚æ‚¤‚É
     }
 

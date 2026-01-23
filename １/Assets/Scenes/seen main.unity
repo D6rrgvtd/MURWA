@@ -359,7 +359,7 @@ MonoBehaviour:
   ruinPrefabs:
   - {fileID: 5928752681963517793, guid: fedeacbae1e41424a8387c1be812295a, type: 3}
   clearobjectprefab:
-  - {fileID: 3983539497186652417, guid: cefe0fef60458be4cbcd85d8b48d4301, type: 3}
+  - {fileID: 93953851154884354, guid: fee92952f41ada041a3f0b5fc4e12726, type: 3}
   objectCount: 50
   wallHeight: 20
   wallThickness: 1

@@ -107,7 +107,7 @@ public class ProceduralTerrain : MonoBehaviour
 
     void SpawnObjects()
     {
-        bool spawnClear = (Random.value < 0.2f); // 20“‚Å true
+        bool spawnClear = (Random.value < 0.3f); // 20“‚Å true
         bool clearSpawned = false;
 
         for (int i = 0; i < objectCount; i++)

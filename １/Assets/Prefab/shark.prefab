@@ -21,7 +21,7 @@ GameObject:
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9086630693521110320
 Transform:
@@ -110,10 +110,10 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.04369729
-  m_Height: 0.08739458
+  m_Radius: 0.037944973
+  m_Height: 0.095463924
   m_Direction: 1
-  m_Center: {x: 0.0036358126, y: -0.008775629, z: -0.001622811}
+  m_Center: {x: 0.0019635535, y: -0.0010195017, z: 0.0033314584}
 --- !u!54 &4792839206267193527
 Rigidbody:
   m_ObjectHideFlags: 0
