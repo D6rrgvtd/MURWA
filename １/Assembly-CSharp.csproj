@@ -66,6 +66,7 @@
     <Compile Include="Assets\script\ScorpionNeedle.cs" />
     <Compile Include="Assets\script\SceneChanger.cs" />
     <Compile Include="Assets\script\IWeapon.cs" />
+    <Compile Include="Assets\ScreenshotTaker.cs" />
     <Compile Include="Assets\script\RearViewToggle.cs" />
     <Compile Include="Assets\script\PortalVortex.cs" />
     <Compile Include="Assets\script\PlayerAttack.cs" />
